@@ -23,6 +23,26 @@ I work in SEO. Most of the damage I see does not come from bad strategy. It come
 
 Each tool here fixes one of those.
 
+## Benefits
+
+**GTM Reader**
+- A tracking audit for a new client starts in seconds, before anyone sends you a login.
+- You see at once if a site sends data to the wrong Analytics or Ads account.
+- If nobody can log in to the Tag Manager account any more, the published setup can still be read and rebuilt.
+- It points out old Universal Analytics tags that Google switched off in 2023 and that are still sitting in the container.
+
+**Site Monitor**
+- You hear about a missing tracking tag or contact button the same day, not three weeks later in a report.
+- It also catches SEO accidents, such as a `noindex` tag copied over from a staging site.
+- It is free. It runs in your own Google account, and one copy can watch many sites.
+- It does not cry wolf: it waits for a problem to repeat, sends one alert, and sends one more email when it is fixed.
+
+**Inbox Watcher**
+- Nobody waits half a day for a yes or no because their message was buried.
+- Each alert says how important it is: Top most, High, Medium or Low.
+- Newsletters and promotions never reach you. Leads and notifications arrive once a day, in one message.
+- It never opens a message for you, so nobody sees "seen" before you have really read it.
+
 ## Try one in a minute
 
 You need [Node.js](https://nodejs.org) 22 or newer.
