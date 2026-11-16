@@ -291,8 +291,14 @@ test('an HTTP failure says which status', async () => {
 });
 
 test('a hung site times out and comes back as unreachable', async () => {
+  // A real hung request holds a socket open, which keeps Node running until the timeout
+  // fires. This stand-in holds nothing, and AbortSignal.timeout's own timer does not keep
+  // Node alive, so a plain timer plays the socket's part until the abort arrives.
   const hang = (url, { signal }) =>
-    new Promise((_, reject) => signal.addEventListener('abort', () => reject(signal.reason)));
+    new Promise((_, reject) => {
+      const socket = setTimeout(() => {}, 5000);
+      signal.addEventListener('abort', () => { clearTimeout(socket); reject(signal.reason); });
+    });
   const started = Date.now();
   const [s] = await checkSites({ fetchImpl: hang, now: NOW, hosts: ['client-one.example'], timeoutMs: 30 });
   assert.ok(Date.now() - started < 2000, 'did not stall');
