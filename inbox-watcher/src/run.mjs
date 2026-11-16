@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // `node src/run.mjs` — step 2 of a scheduled run, and the part that decides WHEN anything
 // is said. It reads what triage and the model left in state/, closes what the owner has
 // already answered, updates the ledger, posts what is due, and prints one line.

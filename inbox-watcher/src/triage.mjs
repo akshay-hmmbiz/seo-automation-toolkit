@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // `node src/triage.mjs` — step 1 of a scheduled run. Reads state/inbox.json (written by
 // the scheduled task from the Gmail connector), classifies every message, and writes
 // state/classified.json and state/unknowns.json. It exits 0 when there is nothing to do.

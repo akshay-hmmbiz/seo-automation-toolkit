@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // The daily "has the blog gone quiet?" check across the sites named in the config.
 // Public web only: it needs no WordPress or admin access to any of them.
 //

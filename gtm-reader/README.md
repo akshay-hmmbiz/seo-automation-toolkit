@@ -153,3 +153,14 @@ The tests use small invented containers in the `fixtures` folder. They do not us
 This tool reads only public data. It downloads the same file that every visitor's browser downloads. It does not log in anywhere and it does not get around any protection.
 
 It also means nothing confidential should ever be stored in a Tag Manager container. Anyone can read it.
+
+## About the author
+
+**GTM Reader** was created by **Akshay Bhimani**, Senior SEO Strategist.
+
+I work on technical SEO, tracking and analytics audits, and visibility in AI search. When a check takes me too long by hand, or a problem keeps being found too late, I design a tool for it, build it and test it. This tool is my own idea and my own work.
+
+- GitHub: [github.com/akshay-hmmbiz](https://github.com/akshay-hmmbiz)
+- Original source: [github.com/akshay-hmmbiz/seo-automation-toolkit](https://github.com/akshay-hmmbiz/seo-automation-toolkit)
+
+Copyright (c) 2026 Akshay Bhimani. Released under the MIT licence. You are free to use and change this tool. The licence requires you to keep this copyright notice and the author's name in every copy, including changed copies. Please do not remove the credit or present this work as your own.

@@ -1,3 +1,6 @@
+// GTM Reader. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 import { readFile } from 'node:fs/promises';
 import { GtmReaderError } from './errors.mjs';
 import { extractContainer, isPlaceholder } from './extract.mjs';
@@ -19,6 +22,8 @@ Options:
 To find a container ID, open the website, press Ctrl+U, then search for "GTM-".
 
 Exit codes: 0 worked, 1 bad input, 2 container not found or could not be reached.
+
+Created by Akshay Bhimani. https://github.com/akshay-hmmbiz/seo-automation-toolkit
 `;
 
 const TIMEOUT_MS = 20000;

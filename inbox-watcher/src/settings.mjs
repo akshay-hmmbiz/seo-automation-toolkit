@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // Everything that is about YOU rather than about how the Watcher works: who you are, who
 // your colleagues are, which senders are robots, which sites to watch, and when the digest
 // goes out. It lives in one file, `watcher.config.json`, which is git-ignored. Copy

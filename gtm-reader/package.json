@@ -26,5 +26,7 @@
     "seo",
     "audit"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Akshay Bhimani (https://github.com/akshay-hmmbiz)",
+  "homepage": "https://github.com/akshay-hmmbiz/seo-automation-toolkit"
 }

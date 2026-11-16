@@ -1,3 +1,6 @@
+// Site Monitor. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // Runs the real Code.gs checks against real pages, from your own computer.
 // Nothing is emailed: the "test email" is printed on screen instead.
 //

@@ -11,5 +11,7 @@
   "scripts": {
     "test": "node --test \"test/*.test.mjs\"",
     "demo": "node scripts/demo.mjs"
-  }
+  },
+  "author": "Akshay Bhimani (https://github.com/akshay-hmmbiz)",
+  "homepage": "https://github.com/akshay-hmmbiz/seo-automation-toolkit"
 }

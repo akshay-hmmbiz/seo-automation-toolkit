@@ -1,3 +1,6 @@
+// GTM Reader. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 /** Plain names for the tag types Google Tag Manager uses inside a container. */
 export const TAG_LABELS = {
   __googtag: 'Google tag (GA4 / Ads base tag)',

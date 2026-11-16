@@ -1,3 +1,6 @@
+// GTM Reader. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 const plural = (n, word) => `${n} ${word}${n === 1 ? '' : 's'}`;
 
 function countLines(rows) {

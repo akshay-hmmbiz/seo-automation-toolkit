@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // Builds the Google Chat messages the owner reads. Pure: `now` is always passed in,
 // and nothing here reads the clock, the environment or the network. The time zone and
 // the list of watched sites come from `settings`, the last argument of each formatter.

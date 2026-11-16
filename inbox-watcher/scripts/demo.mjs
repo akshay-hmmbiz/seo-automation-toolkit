@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // `npm run demo` — the whole Watcher in thirty seconds, with nothing to set up.
 //
 // It copies the invented mail in examples/ to a temporary folder and runs the real code on

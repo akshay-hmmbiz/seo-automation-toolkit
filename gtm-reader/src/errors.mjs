@@ -1,3 +1,6 @@
+// GTM Reader. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 /**
  * An error with a message that is safe to show to the user as it is,
  * and the exit code the command line should end with.

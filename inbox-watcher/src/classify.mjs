@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // Places one message into Tier 1, Tier 2, or 'unknown'. Rules run in the order below and
 // the first match wins. Pure: no I/O. Who the owner is, which domain is internal and which
 // senders are automated come from `settings` (see settings.mjs); a caller may pass its own.

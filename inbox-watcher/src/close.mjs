@@ -1,3 +1,6 @@
+// Inbox Watcher. Created by Akshay Bhimani, Senior SEO Strategist (https://github.com/akshay-hmmbiz).
+// Copyright (c) 2026 Akshay Bhimani. MIT licence: keep this notice in every copy.
+// Original source: https://github.com/akshay-hmmbiz/seo-automation-toolkit
 // `node src/close.mjs --list` prints what is open, with the key each item closes by.
 // `node src/close.mjs <key|all>` — closes an open item by hand. For Chat items this is the
 // only way they ever close: the webhook is send-only, so the reply happens somewhere the
