@@ -1,0 +1,12 @@
+# Secrets and personal settings: never commit these
+.env
+.env.*
+!.env.example
+watcher.config.json
+
+# Run-time state
+state/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

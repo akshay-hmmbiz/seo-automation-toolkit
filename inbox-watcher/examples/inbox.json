@@ -1,0 +1,84 @@
+[
+  {
+    "id": "demo-01",
+    "threadId": "demo-thread-dana",
+    "from": "Google Chat <chat-noreply@google.com>",
+    "to": ["alex@northwind.example"],
+    "subject": "Dana Whitfield <dana@northwind.example> messaged you on Google Chat while you were away",
+    "date": "2026-11-16T04:05:00Z",
+    "plaintextBody": "Dana Whitfield <dana@northwind.example> messaged you on Google Chat while\nyou were away\n\nAlex Morgan\n\nAlex Morgan\n\nSent the draft banner to the client\n\nDana Whitfield\n\nDana Whitfield\n\nThanks. Can you also check the alt text on the new homepage banner before\n3pm?\n\nOpen in Google Chat\n\nGoogle Chat: An intelligent messaging app, built for teams.\n"
+  },
+  {
+    "id": "demo-02",
+    "threadId": "demo-thread-ceo",
+    "from": "Priya Shah <ceo@northwind.example>",
+    "to": ["alex@northwind.example"],
+    "subject": "Numbers for Thursday",
+    "date": "2026-11-16T04:25:00Z",
+    "plaintextBody": "Alex, can you send me last month's enquiry numbers before the Thursday review?"
+  },
+  {
+    "id": "demo-03",
+    "threadId": "demo-thread-nolan",
+    "from": "Nolan Pierce <nolan@northwind.example>",
+    "to": ["alex@northwind.example"],
+    "subject": "Timesheet",
+    "date": "2026-11-16T03:30:00Z",
+    "plaintextBody": "Can you confirm this week's timesheet?"
+  },
+  {
+    "id": "demo-04",
+    "threadId": "demo-thread-rosa",
+    "from": "Rosa Diaz <rosa@client.example>",
+    "to": ["alex@northwind.example"],
+    "subject": "Question about the redirect list",
+    "date": "2026-11-16T03:10:00Z",
+    "plaintextBody": "Hi Alex, before we go live: should the old /shop pages point to the new category pages or to the homepage? We are holding the launch until we hear from you."
+  },
+  {
+    "id": "demo-05",
+    "threadId": "demo-thread-lead",
+    "from": "web@client-one.example",
+    "to": ["sales@client-one.example"],
+    "cc": ["alex@northwind.example"],
+    "subject": "Web enquiry from 'Raised Beds' page",
+    "date": "2026-11-16T02:40:00Z",
+    "plaintextBody": "Name: Sample Visitor. Message: do you deliver on weekends?"
+  },
+  {
+    "id": "demo-06",
+    "threadId": "demo-thread-uptime",
+    "from": "uptime@northwind.example",
+    "to": ["alex@northwind.example"],
+    "subject": "DOWN: client-two.example (HTTP 503)",
+    "date": "2026-11-16T01:15:00Z",
+    "plaintextBody": "client-two.example did not answer for 5 minutes."
+  },
+  {
+    "id": "demo-07",
+    "threadId": "demo-thread-vault",
+    "from": "vault@northwind.example",
+    "to": ["alex@northwind.example"],
+    "subject": "A password was shared with you: staging site",
+    "date": "2026-11-16T00:50:00Z",
+    "plaintextBody": "Henry Okafor shared an entry with you."
+  },
+  {
+    "id": "demo-08",
+    "threadId": "demo-thread-digest",
+    "from": "Quora Digest <english-quora-digest@quora.com>",
+    "to": ["alex@northwind.example"],
+    "subject": "Top stories for you",
+    "date": "2026-11-16T00:30:00Z",
+    "plaintextBody": "Ten questions you might like."
+  },
+  {
+    "id": "demo-09",
+    "threadId": "demo-thread-promo",
+    "from": "Deals <promo@shop.example>",
+    "to": ["alex@northwind.example"],
+    "subject": "48 hours only: 20% off everything",
+    "date": "2026-11-16T00:10:00Z",
+    "plaintextBody": "Our biggest sale of the season ends on Wednesday."
+  }
+]

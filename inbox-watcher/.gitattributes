@@ -1,0 +1,6 @@
+# The fixtures are byte-faithful captures of real mail bodies and real pages. Git's
+# autocrlf would rewrite their line endings on checkout, which changes the data the
+# parsers are tested against: `test/chatmail.test.mjs` builds its CRLF case by replacing
+# every \n with \r\n, so a fixture checked out as CRLF becomes \r\r\n and the test fails
+# on a fresh clone or a new worktree while the product is perfectly correct. Pin them.
+fixtures/** text eol=lf

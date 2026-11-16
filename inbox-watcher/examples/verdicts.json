@@ -1,0 +1,13 @@
+{
+  "demo-04": {
+    "tier": 1,
+    "importance": "medium",
+    "person": "Rosa Diaz (client)",
+    "summary": "Should the old /shop pages point to the new category pages or to the homepage?",
+    "waitingFor": "your answer on the redirect targets. The launch is on hold until then."
+  },
+  "demo-09": {
+    "tier": 2,
+    "bucket": "ignore"
+  }
+}

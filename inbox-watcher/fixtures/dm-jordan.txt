@@ -1,0 +1,87 @@
+Jordan Blake <jordan@northwind.example> messaged you on Google Chat while
+you were away
+
+Alex Morgan
+
+Alex Morgan
+
+its a blocker so
+
+Jordan Blake
+
+Jordan Blake
+
+ok
+
+Jordan Blake
+
+Jordan Blake
+
+Can u reshare the tracking sheet for client three here
+
+Alex Morgan
+
+Alex Morgan
+
+https://docs.google.com/spreadsheets/d/EXAMPLE-SHEET-ID-0002/edit?usp=drive_link
+
+https://drive.google.com/open?id=EXAMPLE-SHEET-ID-0002
+
+Alex Morgan
+
+Alex Morgan
+
+Let me know once you are done with it
+
+Alex Morgan
+
+Alex Morgan
+
+Hello Can you please upload this robots file on client two -
+https://drive.google.com/drive/folders/EXAMPLE-FOLDER-ID-0003?usp=drive_link
+
+https://drive.google.com/open?id=EXAMPLE-FOLDER-ID-0003
+
+Jordan Blake
+
+Jordan Blake
+
+https://client-two.example/robots.txt added here directly
+
+Alex Morgan
+
+Alex Morgan
+
+ok
+
+Alex Morgan
+
+Alex Morgan
+
+Quoted message Alex Morgan
+
+Again the call button is missing on mobile -
+
+its visible now
+
+Jordan Blake
+
+Jordan Blake
+
+Quoted message Alex Morgan
+
+Also the share image needs to be a png or jpg - webp does not work -
+https://client-three.example/
+
+Done for client three
+
+Open in Google Chat
+
+Google Chat: An intelligent messaging app, built for teams.
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+You have received this email because you have been mentioned in this
+conversation by a Google Chat user. You cannot reply to this email.
+Unsubscribe from these emails by changing your email reminder preferences
+for Google Chat. Email reminder preferences cannot be set on mobile
+devices. Learn more
+Logo for Google

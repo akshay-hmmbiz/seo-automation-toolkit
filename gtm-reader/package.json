@@ -1,0 +1,30 @@
+{
+  "name": "gtm-reader",
+  "version": "1.0.0",
+  "description": "Shows what is inside any published Google Tag Manager container, without a login to that account.",
+  "type": "module",
+  "bin": {
+    "gtm-reader": "bin/gtm-reader.mjs"
+  },
+  "exports": "./src/index.mjs",
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "google-tag-manager",
+    "gtm",
+    "ga4",
+    "analytics",
+    "seo",
+    "audit"
+  ],
+  "license": "MIT"
+}

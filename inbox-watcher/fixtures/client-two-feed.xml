@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Client Two</title>
+	<atom:link href="https://client-two.example/feed/" rel="self" type="application/rss+xml" />
+	<link>https://client-two.example/</link>
+	<description>An invented home baking school</description>
+	<lastBuildDate>Mon, 26 Oct 2026 12:44:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://client-two.example/wp-content/uploads/2023/09/favicon.png</url>
+	<title>Client Two</title>
+	<link>https://client-two.example/</link>
+	<width>32</width>
+	<height>32</height>
+</image>
+	<item>
+		<title>Sourdough Starters: What to Feed Them and How Often</title>
+		<link>https://client-two.example/feeding-a-sourdough-starter/</link>
+					<comments>https://client-two.example/feeding-a-sourdough-starter/#respond</comments>
+
+		<dc:creator><![CDATA[Sample Writer]]></dc:creator>
+		<pubDate>Mon, 26 Oct 2026 12:44:17 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://client-two.example/?p=1021</guid>
+
+					<description><![CDATA[<p>This is an invented sample post about feeding a sourdough starter. It exists only so the feed parser has realistic markup to read. [&#8230;]</p>
+<p>The post <a href="https://client-two.example/feeding-a-sourdough-starter/">Sourdough Starters: What to Feed Them and How Often</a> appeared first on <a href="https://client-two.example">Client Two</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="blog-content">
+<p>This is an invented sample post about feeding a sourdough starter. It exists only so the feed parser has realistic markup to read.</p>
+<p><a href="https://client-two.example/feeding-a-sourdough-starter/">Read the short guide</a> for the main steps, or skim the list below.</p>
+<h2>What to Check First</h2>
+<p>Start with the simple things. Most problems come from skipping a basic step.</p>
+<ul>
+<li>Use equal weights of flour and water</li>
+<li>Feed at the same time each day</li>
+<li>Keep the jar somewhere warm, not hot</li>
+</ul>
+<h2>Common Questions</h2>
+<p><strong>How long does it take?</strong> Usually less than an hour.</p>
+<p><strong>Do you need special tools?</strong> No. A cloth, a brush and some patience are enough.</p>
+<h2>Summary</h2>
+<p>Small, regular care goes a long way. That is the whole idea behind feeding a sourdough starter.</p>
+</div>
+]]></content:encoded>
+					<wfw:commentRss>https://client-two.example/feeding-a-sourdough-starter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+
+
+			</item>
+	<item>
+		<title>How to Check Your Oven Temperature at Home</title>
+		<link>https://client-two.example/check-your-oven-temperature/</link>
+
+		<dc:creator><![CDATA[Sample Writer]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 05:17:03 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+				<category><![CDATA[Equipment]]></category>
+				<category><![CDATA[Baking Basics]]></category>
+		<guid isPermaLink="false">https://client-two.example/?p=1014</guid>
+
+					<description><![CDATA[<p>This is an invented sample post about checking an oven temperature. It exists only so the feed parser has realistic markup to read. [&#8230;]</p>
+<p>The post <a href="https://client-two.example/check-your-oven-temperature/">How to Check Your Oven Temperature at Home</a> appeared first on <a href="https://client-two.example">Client Two</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="blog-content">
+<p>This is an invented sample post about checking an oven temperature. It exists only so the feed parser has realistic markup to read.</p>
+<p><a href="https://client-two.example/check-your-oven-temperature/">Read the short guide</a> for the main steps, or skim the list below.</p>
+<h2>What to Check First</h2>
+<p>Start with the simple things. Most problems come from skipping a basic step.</p>
+<ul>
+<li>Put an oven thermometer on the middle shelf</li>
+<li>Wait twenty minutes before reading it</li>
+<li>Note the gap and adjust the dial</li>
+</ul>
+<h2>Common Questions</h2>
+<p><strong>How long does it take?</strong> Usually less than an hour.</p>
+<p><strong>Do you need special tools?</strong> No. A cloth, a brush and some patience are enough.</p>
+<h2>Summary</h2>
+<p>Small, regular care goes a long way. That is the whole idea behind checking an oven temperature.</p>
+</div>
+]]></content:encoded>
+
+
+			</item>
+	<item>
+		<title>Proofing Dough Overnight: Who Should, Who Shouldn&#8217;t, and How to Do It Safely</title>
+		<link>https://client-two.example/proofing-dough-overnight/</link>
+
+		<dc:creator><![CDATA[Sample Writer]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 05:24:55 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+				<category><![CDATA[Bread]]></category>
+				<category><![CDATA[Baking Basics]]></category>
+		<guid isPermaLink="false">https://client-two.example/?p=1007</guid>
+
+					<description><![CDATA[<p>This is an invented sample post about proofing dough overnight. It exists only so the feed parser has realistic markup to read. [&#8230;]</p>
+<p>The post <a href="https://client-two.example/proofing-dough-overnight/">Proofing Dough Overnight: Who Should, Who Shouldn&#8217;t, and How to Do It Safely</a> appeared first on <a href="https://client-two.example">Client Two</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="blog-content">
+<p>This is an invented sample post about proofing dough overnight. It exists only so the feed parser has realistic markup to read.</p>
+<p><a href="https://client-two.example/proofing-dough-overnight/">Read the short guide</a> for the main steps, or skim the list below.</p>
+<h2>What to Check First</h2>
+<p>Start with the simple things. Most problems come from skipping a basic step.</p>
+<ul>
+<li>Use less yeast than for a same-day loaf</li>
+<li>Cover the bowl so the dough does not dry</li>
+<li>Let it warm up before shaping</li>
+</ul>
+<h2>Common Questions</h2>
+<p><strong>How long does it take?</strong> Usually less than an hour.</p>
+<p><strong>Do you need special tools?</strong> No. A cloth, a brush and some patience are enough.</p>
+<h2>Summary</h2>
+<p>Small, regular care goes a long way. That is the whole idea behind proofing dough overnight.</p>
+</div>
+]]></content:encoded>
+
+
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,174 @@
+Mira Castell <mira@northwind.example> mentioned you in Mira, Tomas while you
+were away
+
+Alex Morgan
+
+Alex Morgan
+
+Hello @Mira Castell , I have written up a page checklist for the CLIENT ONE
+website based on the problems found during the last review: Website Review
+CLIENT ONE – 21 Aug 2026 Based on these findings, we would like a small
+Page Check Tool on the team dashboard. The idea is to build a tool that can
+produce a complete page review on its own, using several small checkers.
+The tool should read a website and look for problems in areas such as:
+
+Page titles and descriptions
+Heading order
+Broken links
+Redirect chains
+Missing image text
+Slow pages
+Sitemap and robots file
+Pages that cannot be indexed
+Duplicate pages
+Structured data
+Internal links
+Missing or repeated elements
+Mobile layout problems
+Proofreading (spelling and grammar)
+Content that disagrees between pages
+leftover scripts that are no longer needed
+Blog gaps
+The goal is to have the different checkers do this work on their own and
+then put everything into one report, rather than keeping many separate
+sheets. The final report should be laid out so it is easy for developers to
+read and act on. Ideally, each problem should include: Problem → Why it
+matters → Affected pages → Priority → Suggested fix → Technical notes
+This will make it much easier for the development team to review the
+findings, decide what comes first, and make the changes. In short, we need
+a Page Check Tool that runs the whole review and writes one clear report in
+one place.
+
+https://drive.google.com/open?id=EXAMPLE-DOC-ID-0021
+
+Mira Castell
+
+Mira Castell
+
+Hi, thanks for sharing the details. I've received the request and the
+review sheet. I'll go through everything in detail and get back to you with
+my understanding and the plan for building it.
+
+Alex Morgan
+
+Alex Morgan
+
+Sure!
+
+Alex Morgan
+
+Alex Morgan
+
+Hello @Mira Castell I had a talk with the team yesterday about saving time
+on our weekly reporting. We want to build a small internal helper for this,
+so sharing what we need from it. Workflow and approach I'll leave to you.
+**What the tool should do** Build the weekly report from several data
+sources, for four kinds of report: 1. Traffic summary 2. Enquiry summary 3.
+Page speed summary 4. Content calendar and other planning notes First step
+should be choosing which kind of report we want to run. Based on that
+choice it asks for the relevant inputs. **Inputs it should ask (common to
+all types)**
+
+Which website the report is for
+Which week or date range to cover
+Who the report should be addressed to
+Which numbers to leave out, if any
+Whether we already have a template — if yes, use ours; if no, it picks
+a sensible layout itself for that kind of report
+**Type-specific inputs**
+
+Traffic summary: which pages to highlight, and what to compare against
+Enquiry summary: which forms to count, plus the opening hours of the
+business (name, address, phone, category, hours, description) — these must
+match exactly with what is on the live site
+Page speed summary: which page or group of pages to test
+**Process expectations**
+
+It should collect the numbers from each source by itself using the access
+that has been set up
+If it cannot reach a source, it should pause and hand over to the user
+(human) to sort it out, then continue from there
+Keep a record of which source each number came from
+**Output — this part is important**
+
+Return the finished report for every website asked for (checked, not
+just "generated")
+For any report that failed, return the actual reason with detail — not
+a generic error. For example: source not reachable, access expired, date
+range has no data, template missing a section, etc.
+**Content requirement** All wording must be fresh and relevant every time
+— no copy and paste from last week's report.
+
+Traffic and enquiry summaries: title, notes and wording should be
+relevant to the website asked for
+Page speed summary: written around the pages tested, reading like a
+short note from a colleague
+Planning notes: wording and details written according to the website and
+the plan already shared
+You can brainstorm and add more features too. Let me know if you have any
+confusion regarding this
+
+Mira Castell
+
+Mira Castell
+
+Okk
+
+Mira Castell
+
+Mira Castell
+
+@Alex Morgan Plz Check This
+
+2026-09-08-page-check-tool-design.md
+
+Alex Morgan
+
+Alex Morgan
+
+For now its okay, also need to add that - Add the page address for each
+problem (so developer can easily find the problem and solve it) - also add
+structured data fields and a check that they are valid And one question -
+can we add more features in future as the needs change ?
+
+Mira Castell
+
+Mira Castell
+
+Okk I will update the PRD
+
+Mira Castell
+
+Mira Castell
+
+Quoted message Alex Morgan
+
+For now its okay, also need to add that - Add the page address for each
+problem (so developer can easily find the problem and solve it) - also add
+structured data fields and a check that they are valid And one question -
+can we add more features in future as the needs change ?
+
+Yes. The design is fully modular — every check is an independent "checker"
+module. Adding a new feature/check later just means writing one new checker
+function and adding one line to the list of checkers. No changes needed to
+the storage, the report layout, or the other checkers. This applies to
+future page checks, new speed measures, or new kinds of structured data too.
+
+Mira Castell
+
+Mira Castell
+
+@Alex Morgan This is the updated PRD Check This
+
+2026-09-08-page-check-tool-design.md
+
+Open in Google Chat
+
+Google Chat: An intelligent messaging app, built for teams.
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+You have received this email because you have been mentioned in this
+conversation by a Google Chat user. You cannot reply to this email.
+Unsubscribe from these emails by changing your email reminder preferences
+for Google Chat. Email reminder preferences cannot be set on mobile
+devices. Learn more
+Logo for Google

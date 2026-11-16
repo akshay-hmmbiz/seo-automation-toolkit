@@ -1,0 +1,38 @@
+{
+  "owner": { "name": "Alex Morgan", "email": "alex@northwind.example" },
+  "internalDomain": "northwind.example",
+  "ceo": { "name": "Priya Shah", "email": "ceo@northwind.example" },
+
+  "uptimeSenders": ["uptime@northwind.example"],
+  "reportSenders": ["reports@northwind.example"],
+  "notificationSenders": ["vault@northwind.example", "businessprofile-noreply@google.com"],
+  "automatedInternalSenders": [],
+  "leadLocalParts": ["web"],
+
+  "newsletters": [
+    "np@neilpatel.com",
+    "author@seroundtable.com",
+    "noreply@medium.com",
+    "noreply@skool.com",
+    "@quora.com",
+    "noreply@email.openai.com",
+    "@ambitionbox.com",
+    "@mail.theactionableai.com"
+  ],
+
+  "timezone": "Asia/Kolkata",
+  "digestHour": 9,
+
+  "sites": {
+    "client-one.example": [
+      { "url": "https://client-one.example/feed/", "kind": "feed" }
+    ],
+    "client-two.example": [
+      { "url": "https://client-two.example/feed/", "kind": "feed" }
+    ],
+    "northwind.example": [
+      { "url": "https://northwind.example/resources/blogs/", "kind": "listing", "label": "blog listing", "expect": ["loop grid", "UAEL grid"] },
+      { "url": "https://northwind.example/resources/tech-news/", "kind": "listing", "label": "tech-news listing", "expect": ["loop grid"] }
+    ]
+  }
+}

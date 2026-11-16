@@ -1,0 +1,50 @@
+[
+  {
+    "name": "mentionFixture",
+    "file": "mention-design.txt",
+    "id": "fx-mention-design",
+    "subject": "\"Digital Marketing | Design\" space mention - @Alex Morgan @Henry...",
+    "date": "2026-10-06T23:57:25Z",
+    "note": "Truncated subject, Drive and Sheets links, several speakers. The actionable last message is Sofia asking Alex and Henry to check uploaded blog images."
+  },
+  {
+    "name": "dmFixture",
+    "file": "dm-dana.txt",
+    "id": "fx-dm-dana",
+    "subject": "Dana Whitfield <dana@northwind.example> messaged you on Google Chat while you were away",
+    "date": "2026-10-17T06:11:30Z",
+    "note": "A direct message. Has non-ASCII text (an em dash and accented letters) inside a quoted block."
+  },
+  {
+    "name": "harborFixture",
+    "file": "mention-harbor.txt",
+    "id": "fx-mention-harbor",
+    "subject": "\"Harbor Apparel\" space mention - Everything is complete...",
+    "date": "2026-09-02T01:15:36Z",
+    "note": "A long multi-speaker thread with quoted messages. Tests that the last lines are the newest, not the quoted history."
+  },
+  {
+    "name": "miraFixture",
+    "file": "mention-mira.txt",
+    "id": "fx-mention-mira",
+    "subject": "\"Mira, Tomas\" space mention - @Alex Morgan This i...",
+    "date": "2026-09-08T23:59:31Z",
+    "note": "Shows that a SINGLE Chat message renders as SEVERAL blank-line-separated paragraphs (Alex's two long specs with lists). Also has an attachment filename as its own line, and a quote-then-reply inside one block. The correct lastLines is Mira's final block: the '@Alex Morgan This is the updated PRD Check This' ask plus the .md filename."
+  },
+  {
+    "name": "jordanFixture",
+    "file": "dm-jordan.txt",
+    "id": "fx-dm-jordan",
+    "subject": "Jordan Blake <jordan@northwind.example> messaged you on Google Chat while you were away",
+    "date": "2026-10-07T00:47:43Z",
+    "note": "A DM. The final block is Jordan's and opens with a quote of Alex's own message, so the live reply is just 'Done for client three'. Tests that a quoted block is not mistaken for live content, and that the unanswered-run walk-back stops at Alex's 'ok'."
+  },
+  {
+    "name": "mentionFixtureLater",
+    "file": "mention-design-later.txt",
+    "id": "synthetic-design-later",
+    "subject": "\"Digital Marketing | Design\" space mention - @Alex Morgan the Client One...",
+    "date": "2026-10-28T04:12:00Z",
+    "note": "A second notification for the same space as mentionFixture, used as the second asker in the same space (a different sender), so the conversationKey and two-asks tests have two inputs sharing a space name."
+  }
+]
