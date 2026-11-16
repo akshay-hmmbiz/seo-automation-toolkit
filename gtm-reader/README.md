@@ -156,11 +156,13 @@ It also means nothing confidential should ever be stored in a Tag Manager contai
 
 ## About the author
 
-**GTM Reader** was created by **Akshay Bhimani**, Senior SEO Strategist.
+**GTM Reader** was designed, built and tested by **Akshay Bhimani**, Senior SEO Strategist.
 
-I work on technical SEO, tracking and analytics audits, and visibility in AI search. When a check takes me too long by hand, or a problem keeps being found too late, I design a tool for it, build it and test it. This tool is my own idea and my own work.
+I have 5+ years of hands-on SEO experience with B2B clients worldwide. My work covers technical SEO, tracking and analytics audits, and visibility in AI search. I build a tool when a check takes too long by hand, or when a problem keeps being found too late.
 
+- LinkedIn: [in.linkedin.com/in/akshay-bhimani](https://in.linkedin.com/in/akshay-bhimani)
 - GitHub: [github.com/akshay-hmmbiz](https://github.com/akshay-hmmbiz)
+- Email: akshay.bhimani7@gmail.com
 - Original source: [github.com/akshay-hmmbiz/seo-automation-toolkit](https://github.com/akshay-hmmbiz/seo-automation-toolkit)
 
-Copyright (c) 2026 Akshay Bhimani. Released under the MIT licence. You are free to use and change this tool. The licence requires you to keep this copyright notice and the author's name in every copy, including changed copies. Please do not remove the credit or present this work as your own.
+Copyright (c) 2026 Akshay Bhimani. Released under the MIT licence. You are free to use and change this tool. The licence asks that this copyright notice and the author's name stay in every copy, including changed copies.

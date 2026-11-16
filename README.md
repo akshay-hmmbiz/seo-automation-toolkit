@@ -127,7 +127,13 @@ Each tool's own README has the full list.
 
 ## About
 
-Built by Akshay Bhimani, Senior SEO Strategist. I built these with Claude Code as my pair programmer: I decided what each tool must do and what it must never do, and I reviewed and tested the results against real sites.
+Designed, built and tested by **Akshay Bhimani**, Senior SEO Strategist.
+
+I have 5+ years of hands-on SEO experience with B2B clients worldwide. My work covers technical SEO, tracking and analytics audits, and visibility in AI search. I built these with Claude Code as my pair programmer: I decided what each tool must do and what it must never do, and I reviewed and tested the results against real sites.
+
+- LinkedIn: [in.linkedin.com/in/akshay-bhimani](https://in.linkedin.com/in/akshay-bhimani)
+- GitHub: [github.com/akshay-hmmbiz](https://github.com/akshay-hmmbiz)
+- Email: akshay.bhimani7@gmail.com
 
 ## Licence
 
