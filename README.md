@@ -9,6 +9,7 @@ The three tools that used to sit in this repository (GTM Reader, Site Monitor an
 | **GTM Reader** | Shows what any website's Google Tag Manager container sends, and to which Analytics and Ads accounts. No login needed. | Node.js, command line | [akshay-hmmbiz/gtm-reader](https://github.com/akshay-hmmbiz/gtm-reader) |
 | **Site Monitor** | Emails you when a tracking tag, a contact button or an SEO tag disappears from a site. | Google Apps Script, free | [akshay-hmmbiz/site-monitor](https://github.com/akshay-hmmbiz/site-monitor) |
 | **Inbox Watcher** | Tells you in Google Chat when a person is waiting on you, with an importance level. Everything else waits for one daily digest. | Node.js, with an AI agent reading Gmail | [akshay-hmmbiz/inbox-watcher](https://github.com/akshay-hmmbiz/inbox-watcher) |
+| **Site Copy Check** | Reads every page of a website for spelling, grammar and wording mistakes, and produces a fix sheet with the exact wrong text and the exact correction. | Node.js, with a language model for the judgement step | [akshay-hmmbiz/site-copy-check](https://github.com/akshay-hmmbiz/site-copy-check) |
 | **AI Visibility Booster** | WordPress plugin that makes a site easier for AI systems to read: AI sitemap, JSON feed, summaries, schema and AI bot analytics. | WordPress | [akshay-hmmbiz/ai-visibility-booster](https://github.com/akshay-hmmbiz/ai-visibility-booster) |
 
 ## Which one do I need?
@@ -16,6 +17,7 @@ The three tools that used to sit in this repository (GTM Reader, Site Monitor an
 - **"What does this site track, and where does the data go?"** Use GTM Reader.
 - **"Tell me the day a tracking tag or contact button goes missing."** Use Site Monitor.
 - **"Do not let anyone wait half a day for my reply."** Use Inbox Watcher.
+- **"Find every typo and wording mistake on this site before the client does."** Use Site Copy Check.
 - **"Make my WordPress site easier for ChatGPT, Gemini and Perplexity to read."** Use AI Visibility Booster.
 
 ## About
